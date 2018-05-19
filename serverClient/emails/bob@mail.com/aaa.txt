@@ -1,0 +1,24 @@
+From: bob@mail.com
+Date: 2017-13-26 23:42:52.169
+To: rcpt@email.com
+Subject: Subject
+line 1
+line 2
+line 3
+.
+From: bob@mail.com
+Date: 2017-13-26 23:42:52.169
+To: rcpt@email.com
+Subject: Subject
+line 1
+line 2
+line 3
+.
+From: bob@mail.com
+Date: 2017-13-26 23:42:52.169
+To: rcpt@email.com
+Subject: Subject
+line 1
+line 2
+line 3
+.
